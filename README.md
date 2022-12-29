@@ -1,1 +1,1 @@
-# .github
+# Pluma Team
